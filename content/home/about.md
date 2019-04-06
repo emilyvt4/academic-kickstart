@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Healthcare",
-    "Sociology",
-    "Family",
-    "Policy"
+    "Social Policy",
+    "Health Disparities",
+    "Gender and Family",
+    "Spatial Demography"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,4 +36,4 @@ weight = 5
 +++
 # About me
 
-Emily Parker is a PhD candidate in the Department of Policy Analysis and Management at Cornell University. She is currently working on a dissertation studying federally-funded community health centers across the United States. Her dissertation uses a mixed-methods approach, combining administrative, archival, and interview data. She is supervised by Professor Laura Tach. I am also working on a number of other projects with collaborators including ...
+I am a PhD candidate in the Department of Policy Analysis and Management at Cornell University, with a concentration in Sociology and minor in Demography. My dissertation explores Federally Qualified Health Centers (FQHCs), the health care safety net serving more than 28 million Americans who are predominantly low-income. I use a mixed-methods approach to studying this institution through combining historical administrative and archival data, as well as in-depth interviews with FQHC patients and providers.
