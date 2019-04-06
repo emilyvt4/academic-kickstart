@@ -36,4 +36,4 @@ weight = 5
 +++
 # About me
 
-Emily Parker is a PhD candidate in the Department of Policy Analysis and Management at Cornell University. She is currently working on a dissertation studying federally-funded community health centers across the United States. Her dissertation uses a mixed-methods approach, combining administrative, archive, and interview data.
+Emily Parker is a PhD candidate in the Department of Policy Analysis and Management at Cornell University. She is currently working on a dissertation studying federally-funded community health centers across the United States. Her dissertation uses a mixed-methods approach, combining administrative, archive, and interview data. She is supervised by Professor Laura Tach.
