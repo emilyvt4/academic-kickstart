@@ -1,0 +1,10 @@
+#!/bin/sh
+git add .
+git commit -m "Updating my website"
+git push -u origin master
+hugo
+cd public
+git add .
+git commit -m "Building website"
+git push origin master
+cd ..
