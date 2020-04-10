@@ -36,7 +36,7 @@ weight = 5
 +++
 # About me
 
-I am a PhD candidate in the Department of Policy Analysis and Management at Cornell University, with a concentration in Sociology and minor in Demography. My research is primarily concerned with how health and social policies have evolved in the U.S. and how they affect people’s lives. I also study modern American union formation and changing gender norms in the contexts of work and family.
+I am a PhD candidate in the Department of Policy Analysis and Management at Cornell University, with a concentration in Sociology and minor in Demography. My research is primarily concerned with how health and social policies have evolved in the U.S. and how they affect people’s lives. I also study gender and family, with a focus on changes to modern American union formation.
 
 My dissertation examines the Community Health Center (CHC) program, a widespread yet understudied safety net institution serving more than 29 million Americans in roughly 10,000 medically underserved communities nationwide. I use a mixed-methods approach through combining three original data collection efforts: (1) a historical panel on the locations of health center sites from 1965-2018, (2) in-depth interviews with health center patients and providers, and (3) primary documents gathered from eight presidential archives on the political history of health centers as compared with Medicaid.
 
