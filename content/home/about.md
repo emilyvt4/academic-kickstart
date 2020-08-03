@@ -42,4 +42,4 @@ My dissertation examines the Community Health Center (CHC) program, a widespread
 
 My dissertation research has received support from the Horowitz Foundation for Social Policy, the Fahs Beck Fund for Research and Experimentation, the Cornell Center for the Study of Inequality, and the Cornell Office of Engagement Initiatives.
 
-You can view my ***CV*** {{% staticref "files/EmilyParker_CV_JobMarket.pdf" %}}here{{% /staticref %}}.
+You can view my ***CV*** {{% staticref "files/EmilyParker_CV_Public.pdf" %}}here{{% /staticref %}}.
