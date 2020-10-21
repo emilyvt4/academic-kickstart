@@ -40,6 +40,6 @@ I am a PhD candidate in the Department of Policy Analysis and Management at Corn
 
 My dissertation examines the Community Health Center (CHC) program, an often-overlooked safety net institution that now serves more than 29 million Americans, or roughly one-third of the nation's poor population. To understand the historical, spatial, and social aspects of this federal program, I use a mixed-methods approach through combining three original data collection efforts: (1) historical datasets on the location and funding of health centers, (2) in-depth interviews with health center patients and providers, and (3) primary documents gathered from eight presidential libraries to compare the political history of the CHC program with Medicaid.
 
-My dissertation research has received grants from the *Horowitz Foundation for Social Policy, the Fahs Beck Fund for Research and Experimentation, the Cornell Center for the Study of Inequality,* and *the Cornell Office of Engagement Initiatives* and recently won the **APPAM Best Comparative Policy Paper Award.**
+My dissertation research has received grants from the **Horowitz Foundation for Social Policy, the Fahs Beck Fund for Research and Experimentation, the Cornell Center for the Study of Inequality,** and **the Cornell Office of Engagement Initiatives,** and recently won the **APPAM Best Comparative Policy Paper Award.**
 
 You can view my ***CV*** {{% staticref "files/EmilyParker_CV_Public.pdf" %}}here{{% /staticref %}}.
