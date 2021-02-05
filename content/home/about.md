@@ -36,7 +36,7 @@ weight = 5
 +++
 # About me
 
-I am a PhD candidate in the Department of Policy Analysis and Management at Cornell University, with a concentration in Sociology and minor in Demography. My research is primarily focused on how health and social policies have evolved in the U.S. and how the safety net impacts people’s lives. I also study gender and family, with a focus on changes to modern American union formation, with articles published in *Population Research and Policy Review* and *Journal of Marriage and Family*.
+I am a PhD candidate in the Department of Policy Analysis and Management at Cornell University, with a concentration in Sociology and minor in Demography. My research is primarily focused on how health and social policies have evolved in the U.S. and how the safety net impacts people’s lives. I also study gender and family, with a focus on changes to modern American union formation. My work has been published in outlets such as *Social Science & Medicine*, *Population Research and Policy Review*, and *Journal of Marriage and Family*.
 
 My dissertation examines the Community Health Center (CHC) program, an often-overlooked safety net institution that now serves more than 29 million predominantly low-income Americans. To understand the historical, spatial, and social aspects of this federal program, I use a mixed-methods approach through combining three original data collection efforts: (1) historical datasets on the location and funding of health centers, (2) in-depth interviews with health center patients and providers, and (3) primary documents gathered from eight presidential libraries to compare the political history of the CHC program with Medicaid.
 
